@@ -1,0 +1,14 @@
+{
+  "name": "episode1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Venkatesh Koppar",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
